@@ -1,9 +1,8 @@
 # Comptes-bancaires
-Programme pour gérer les comptes bancaires. Implémentation d'une classe abstraite et utilisation de listes et de vecteurs.
+Programme pour gérer des comptes bancaires. Implémentation d'une classe abstraite et utilisation de listes et de vecteurs pour associer plusieurs comptes à un seul client. Gestion de frais d'intérêt et de solde minimum dans un compte, écrit avec une petite touche humoristique.
 
-Note obtenue: 5.75/6
+Projet complété en décembre 2019, avant l'inscription à GitHub.
 
-Commentaires de la correctrice (non corrigés à ce jour)
-Les frais de services devaient être retirés lorsqu’on est sous le solde minimum.
-
-La liste de comptes devraient être privée.
+À corriger:
+- Les frais de services devaient être retirés lorsqu’on est sous le solde minimum.
+- La liste de comptes devraient être privée.
